@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VuePwaTutorial/precache-manifest.77e09a06bbd728bc297b4062d9fc11cf.js"
+  "/VuePwaTutorial/precache-manifest.02dab80f625b571775b52e3fb4b5791f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-pwa-tutorial"});

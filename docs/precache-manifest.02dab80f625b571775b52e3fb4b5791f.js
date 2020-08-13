@@ -8,7 +8,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VuePwaTutorial/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "d9341fd0b9f839456ec2b733d63ccf4f",
+    "revision": "d622133bd5133b60ada4cfd700566954",
+    "url": "/VuePwaTutorial/img/splash/launch-750x1334.png"
+  },
+  {
+    "revision": "30e0470ce315a519dbaa0f3fa86207cf",
     "url": "/VuePwaTutorial/index.html"
   },
   {
